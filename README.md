@@ -1,3 +1,3 @@
-# hacher
+# HACHEP
 
-Finished on replit, will upload here soon.
+README coming soon
