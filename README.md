@@ -35,6 +35,7 @@ Any amount is appreciated! Thank you for your support! 🌟
   - Font changes
   - Forms
   - Style-based injections
+  - Scripts
 
 - **Rate Limiting**: Built-in rate limiting to prevent overwhelming target servers
 
