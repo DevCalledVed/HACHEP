@@ -39,7 +39,7 @@ A powerful and efficient HTML injection vulnerability scanner built in C++ to he
 
 ## Usage 💻
 
-1. Click the "Run" button to start the scanner
+1. Download **HACHEP.zip** and paste it into a C++ compiler. 
 2. Enter the target URL when prompted
 3. Review the scan results for potential vulnerabilities
 
@@ -79,3 +79,5 @@ This tool is intended for security testing of your own applications or those you
 ## License 📄
 
 This project is available for use under standard open-source terms.
+
+**Made using replit, thus includes replit config files.**
