@@ -47,7 +47,7 @@ Any amount is appreciated! Thank you for your support! 🌟
 
 ## Usage 💻
 
-1. Download **HACHEP.zip** and paste it into a C++ compiler. 
+1. Download **HACHEP.zip** and paste it into a C++ compiler and run the program. 
 2. Enter the target URL when prompted
 3. Review the scan results for potential vulnerabilities
 
@@ -89,3 +89,5 @@ This tool is intended for security testing of your own applications or those you
 This project is available for use under standard open-source terms.
 
 **Made using replit, thus includes replit config files.**
+
+**This repo has not been deployed due to costs, so please donate so that I may do so, otherwise, you may deploy it yourself.**
