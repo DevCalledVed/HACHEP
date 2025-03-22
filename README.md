@@ -76,7 +76,7 @@ Payload: <img src="x" onerror="alert('test')">
 
 This tool is intended for security testing of your own applications or those you have permission to test. Always obtain proper authorization before scanning any web application.
 
-## License 📄
+## License/Notes 📄
 
 This project is available for use under standard open-source terms.
 
