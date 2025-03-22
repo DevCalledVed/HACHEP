@@ -11,11 +11,11 @@ A powerful and efficient HTML injection vulnerability scanner built in C++ to he
         ██║  ██║ ██║  ██║ ╚██████╗██║  ██║███████╗██║     
         ╚═╝  ╚═╝ ╚═╝  ╚═╝  ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝     
 ```
-##📢 PLEASE DONATE TO SUPPORT THIS PROJECT! 📢
+## 📢 **PLEASE DONATE TO SUPPORT THIS PROJECT!** 📢
 
-If you find this tool helpful, please consider donating to me through Roblox! Your support keeps this project alive and improving.
+If you find this tool helpful, please consider donating to me through **Roblox** (I don't want to give out my personal bank account)! Your support keeps this project alive and improving.
 
-Donate via Roblox: **vhamburger0**
+**Donate via Roblox:** `vhamburger0`
 
 Any amount is appreciated! Thank you for your support! 🌟
 
